@@ -34,7 +34,7 @@ The system uses a set of sensors to gather data on the environmental conditions 
 This project has demonstrated the capability of IoT technologies to enhance resource management in greenhouses, contributing to more sustainable agricultural practices. Implementing this system can help farmers reduce their resource consumption and maximize the health and productivity of plants.
 
 ## Useful Links
-- [Presentation Link]([URL-of-presentation](https://www.canva.com/design/DAFdAFdGacA/jEksoIzz_u9FNGC1c7Tm1w/edit?utm_content=DAFdAFdGacA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+- [Presentation Link](https://www.canva.com/design/DAFdAFdGacA/jEksoIzz_u9FNGC1c7Tm1w/edit?utm_content=DAFdAFdGacA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 ## Notice
